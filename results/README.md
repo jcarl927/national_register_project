@@ -2,9 +2,9 @@ The results folder contains a .csv file of the processed National Register datas
 
 The National Register Processed Dataset file has undergone the following transformations from the raw dataset:
 
--A **Listed Year** column has been added to show only the year associated with the listed date.
--Capitalization has been standardized in the **Category of Property** column.
--The seven empty columns between the **External Link** and **Status** columns have been removed.
+-A **Listed Year** column has been added to show only the year associated with the listed date.<br>
+-Capitalization has been standardized in the **Category of Property** column.<br>
+-The seven empty columns between the **External Link** and **Status** columns have been removed.<br>
 -Row 96,644 from the raw dataset has been removed, as this contained only a property name (“Historical and Architectural Resources of Eliot, Maine MPS”) with little other relevant information for analysis.
 
 Please note that there are 427 rows in the **Reference #** column (in both the raw and processed datasets) that show duplicate reference numbers. These duplicate listings most often correspond to boundary increases or decreases for a property over the duration of its listing. The duplicates represent only .44% of the total dataset, so they have been retained here. 

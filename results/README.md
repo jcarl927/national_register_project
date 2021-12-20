@@ -1,4 +1,4 @@
-The results folder contains a .csv file of the processed National Register dataset, as well as .png files of the visualizations created based on this data. 
+The results folder contains a .csv file of the processed National Register dataset, as well as the four .csv files derived from my Python script in the src folder, and .png files of the visualizations created based on this data. 
 
 The National Register Processed Dataset file has undergone the following transformations from the raw dataset:
 

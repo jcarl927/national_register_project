@@ -10,7 +10,7 @@ This repository contains the following folders and files:
 		<li>National-Register-Raw-Dataset.csv</li>
 	</ul>
   
-<li><b>doc</b>: All documents I wrote relating to the project.</li>
+<li><b>docs</b>: All documents I wrote relating to the project.</li>
 	<ul>
 		<li>Methodology-Statement.pdf</li>
 		<li>Analysis-Statement.pdf</li>

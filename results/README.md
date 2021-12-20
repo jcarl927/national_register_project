@@ -10,7 +10,7 @@ The National Register Processed Dataset file has undergone the following transfo
 Please note that there are 427 rows in the **Reference #** column (in both the raw and processed datasets) that show duplicate reference numbers. These duplicate listings most often correspond to boundary increases or decreases for a property over the duration of its listing. The duplicates represent only .44% of the total dataset, so they have been retained here. 
 
 Suggested Citation:
-National Park Service (2021). *National Register of Historic Places Listed properties (listing up to 06/17/2021)* [Data set]. Retrieved from https://www.nps.gov/subjects/nationalregister/data-downloads.htm
+National Park Service (2021). *National Register of Historic Places Listed properties (listings up to 06/17/2021)* [Data set]. Retrieved from https://www.nps.gov/subjects/nationalregister/data-downloads.htm
 
 Keywords: National Register of Historic Places, American history, historic buildings, historic sites, landmarks
 

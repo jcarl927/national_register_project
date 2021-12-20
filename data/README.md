@@ -28,7 +28,7 @@ Column 18: Original Reference # <br>
 Column 19: Request Type<br>
 Column 20: External Link<br>
 Column 21: Status<br>
-
+<br>
 Column Notes:<br><br>
 **Area of Significance** indicates why a property is included on the National Register.
 

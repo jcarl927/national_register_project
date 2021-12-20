@@ -1,7 +1,7 @@
 # Exploring the National Register of Historic Places
 Created for INFO 628 Data Librarianship & Management with Prof. Vicky Rampin at Pratt Institute. 
 
-Since its inception in 1966, the National Register of Historic Places has been the sole federal list of notable places with ties to America's history. The National Register is maintained by the National Park Service, who calls the resource "the official list of the Nation's historic places worthy of preservation." This project uses <a href="https://www.nps.gov/subjects/nationalregister/data-downloads.htm">the National Register of Historic Places dataset</a href> to explore all 96,000+ listings. What kinds of places are most represented on the National Register? What do these listings tell us about our nation's history?
+Since its inception in 1966, the National Register of Historic Places has been the sole federal list of notable places with ties to America's history. The National Register is maintained by the National Park Service, who calls the resource "the official list of the Nation's historic places worthy of preservation." This project uses <a href="https://www.nps.gov/subjects/nationalregister/data-downloads.htm">the National Register of Historic Places dataset</a> to explore all 96,000+ listings. What kinds of places are most represented on the National Register? What do these listings tell us about our nation's history?
 
 This repository contains the following folders and files:
 <ul><li>**data**: Here you'll find the raw dataset I downloaded from the National Park Service.</li>
@@ -35,4 +35,4 @@ This repository contains the following folders and files:
 		<li>National_Register_Counters.py</li>
 	</ul>
 
-To access my full visualizations, please visit <a href="https://tinyurl.com/424k5a7h">Tableau Public</a href>.
+To access my full visualizations, please visit <a href="https://tinyurl.com/424k5a7h">Tableau Public</a>.

@@ -29,7 +29,7 @@ Column 19: Request Type<br>
 Column 20: External Link<br>
 Column 21: Status<br>
 
-Column Notes:
+Column Notes:<br>
 **Area of Significance** indicates why a property is included on the National Register.
 
 **Category of Property** classifies listed properties as one of five broad types: building, district, object, site, or structure.

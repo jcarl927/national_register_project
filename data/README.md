@@ -1,7 +1,7 @@
 The data folder contains the National Register of Historic Places raw dataset in .xlsx and .csv file formats. This dataset has information on properties added to the National Register from its inception in 1966 through June 17, 2021. The original spreadsheet was downloaded in .xlsx file format from the National Park Service website (https://www.nps.gov/subjects/nationalregister/data-downloads.htm) in October 2021, and was converted into .csv format for future accessibility. The raw dataset contains 96,644 rows and 21 columns.
 
 Suggested Citation:
-National Park Service (2021). *National Register of Historic Places Listed properties (listing up to 06/17/2021)* [Data set]. Retrieved from https://www.nps.gov/subjects/nationalregister/data-downloads.htm
+National Park Service (2021). *National Register of Historic Places Listed properties (listings up to 06/17/2021)* [Data set]. Retrieved from https://www.nps.gov/subjects/nationalregister/data-downloads.htm
 
 Keywords: National Register of Historic Places, American history, historic buildings, historic sites, landmarks
 
